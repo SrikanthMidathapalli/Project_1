@@ -1,4 +1,4 @@
-# Welcome To Web Based Facebook Application
+# Welcome To Web Based Application
 ## Project Description:
 Facebook application is web based  project, which is implemented to provide some of the basic features to the user to interact with the application and allowing the user to 
 edit the profile and retrive the data about the profiles. In this project java servlet,Hibernate,html,css,javascript are used.
